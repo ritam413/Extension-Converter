@@ -30,5 +30,5 @@ This Python script allows you to **bulk rename file extensions** within a specif
    target_extension = '.png'           # Desired file extension
 
 
-#How to Run
+# How to Run
     python convert_file_extensions.py
